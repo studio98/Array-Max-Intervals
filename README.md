@@ -47,4 +47,4 @@ The result will be:
 		, 'green'
 	);
 
-For a multi-dimensional array example, see *example.php*.
+For a multi-dimensional array example, see **example.php**.
